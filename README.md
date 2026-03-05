@@ -2,12 +2,17 @@
 
 ## 👩‍💻 About Me
 
--🔭 Currently building **Deep Learning projects**
--🌱 Exploring **PyTorch & advanced ML**
--👯 Open to collaborating on **creative AI / tech projects**
--🤔 Looking to improve **Deep learning models**
--💬 Ask me about **AI, ML, Hackathons, and project building**
--📫 Reach me via **LinkedIn or Medium**
+🔭 Currently building **Deep Learning projects**
+
+🌱 Exploring **PyTorch & advanced ML**
+
+👯 Open to collaborating on **creative AI / tech projects**
+
+🤔 Looking to improve **Deep learning models**
+
+💬 Ask me about **AI, ML, Hackathons, and project building**
+
+📫 Reach me via **LinkedIn or Medium**
 
 ---
 ## 🌐 Socials
