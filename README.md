@@ -2,19 +2,12 @@
 
 ## 👩‍💻 About Me
 
-🔭 Currently building **Deep Learning projects**
-
-🌱 Exploring **PyTorch & advanced ML**
-
-👯 Open to collaborating on **creative AI / tech projects**
-
-🤔 Looking to improve **Deep learning models**
-
-💬 Ask me about **AI, ML, Hackathons, and project building**
-
-📫 Reach me via **LinkedIn or Medium**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=AI+Engineer;Machine+Learning+Developer;Future+Startup+Founder)](https://git.io/typing-svg)
+-🔭 Currently building **Deep Learning projects**
+-🌱 Exploring **PyTorch & advanced ML**
+-👯 Open to collaborating on **creative AI / tech projects**
+-🤔 Looking to improve **Deep learning models**
+-💬 Ask me about **AI, ML, Hackathons, and project building**
+-📫 Reach me via **LinkedIn or Medium**
 
 ---
 ## 🌐 Socials
