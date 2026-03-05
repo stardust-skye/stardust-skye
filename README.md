@@ -3,10 +3,15 @@
 ## 👩‍💻 About Me
 
 🔭 Currently building **Deep Learning projects**
+
 🌱 Exploring **PyTorch & advanced ML**
+
 👯 Open to collaborating on **creative AI / tech projects**
+
 🤔 Looking to improve **Deep learning models**
+
 💬 Ask me about **AI, ML, Hackathons, and project building**
+
 📫 Reach me via **LinkedIn or Medium**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=AI+Engineer;Machine+Learning+Developer;Future+Startup+Founder)](https://git.io/typing-svg)
@@ -16,7 +21,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmika-mahindrakar-aab483243/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://skyelogs.hashnode.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/stardust-skye)
 
 ---
 ## 🛠 Tech Stack
