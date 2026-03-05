@@ -4,9 +4,7 @@ AI, Machine Learning and Robotics Enthusiast | 3x Hackathon Winner
 🚀 Building fun Projects & Future Startups
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&lines=AI+Engineer;Machine+Learning+Developer;Future+Startup+Founder)](https://git.io/typing-svg)
-
 ---
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
@@ -17,8 +15,6 @@ AI, Machine Learning and Robotics Enthusiast | 3x Hackathon Winner
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
 
----
-
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn)
@@ -26,13 +22,9 @@ AI, Machine Learning and Robotics Enthusiast | 3x Hackathon Winner
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black)
 
----
-
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-black?logo=react)
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-
----
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-red?logo=git)
@@ -54,8 +46,8 @@ AI, Machine Learning and Robotics Enthusiast | 3x Hackathon Winner
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/rashmika-mahindrakar-aab483243/  
-Medium: https://skyelogs.hashnode.dev/
+LinkedIn: (https://www.linkedin.com/in/rashmika-mahindrakar-aab483243/) 
+Medium: (https://skyelogs.hashnode.dev/)
 
 ---
 
