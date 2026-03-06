@@ -18,7 +18,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmika-mahindrakar-aab483243/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?logo=medium&logoColor=white)](https://skyelogs.hashnode.dev/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white)](https://skyelogs.hashnode.dev/)
 
 ---
 ## 🛠 Tech Stack
