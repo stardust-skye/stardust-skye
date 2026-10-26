@@ -1,57 +1,27 @@
-# Hi there 👋 I'm Rashmika
 
-## 👩‍💻 About Me
+# Rashmika Mahindrakar
 
-🔭 Currently building **Deep Learning projects**
+**MSCS @ NC State | AI/ML · Software Engineering · Systems**
 
-🌱 Exploring **PyTorch & advanced ML**
+I build AI-powered applications and reliable software systems — from multimodal ML and LLM agents to full-stack products. Currently exploring deep learning, systems engineering, and the intersection of AI with the physical world.
 
-👯 Open to collaborating on **creative AI / tech projects**
+- 🧠 Building: AI/ML systems and agentic applications
+- ⚙️ Exploring: PyTorch, systems programming, and infrastructure
+- 🏎️ Interested in: Autonomous systems, motorsport, and space
+- 🤝 Open to: Interesting engineering projects and collaborations
 
-🤔 Looking to improve **Deep learning models**
+### Tech
 
-💬 Ask me about **AI, ML, Hackathons, and project building**
+**Languages:** Python · Java · C · JavaScript · TypeScript · SQL  
+**AI/ML:** PyTorch · TensorFlow · scikit-learn · NumPy · Pandas  
+**Engineering:** React · FastAPI · Node.js · PostgreSQL · Firebase · Git
 
-📫 Reach me via **LinkedIn or Medium**
+### Featured Projects
 
----
-## 🌐 Socials
+- **Escape Red Hat** — Multi-agent evacuation simulation with deterministic action validation.
+- **YUI** — Multimodal emotion-aware AI application.
+- **HeatShield** — Geospatial analytics for urban heat risk and cooling accessibility.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmika-mahindrakar-aab483243/) 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white)](https://skyelogs.hashnode.dev/)
+### Find me
 
----
-## 🛠 Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Java-red?logo=java)
-![C](https://img.shields.io/badge/C-00599C?logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
-![Git](https://img.shields.io/badge/Git-red?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?logo=render)
-![Anaconda](https://img.shields.io/badge/Anaconda-green?logo=anaconda)
-![Notion](https://img.shields.io/badge/Notion-black?logo=notion)
-![Canva](https://img.shields.io/badge/Canva-blue?logo=canva)
-![Miro](https://img.shields.io/badge/Miro-yellow?logo=miro)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=stardust-skye&theme=tokyonight)
-
----
-
-![](https://komarev.com/ghpvc/?username=stardust-skye&color=blue)
+[LinkedIn](https://www.linkedin.com/in/rashmika-mahindrakar-aab483243/) · [Hashnode](https://skyelogs.hashnode.dev/)
