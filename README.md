@@ -1,13 +1,13 @@
 
 # Rashmika Mahindrakar
 
-**MSCS @ NC State | AI/ML · Software Engineering · Systems**
+**MSCS @ NC State | AI/ML · Software Engineering**
 
-I build AI-powered applications and reliable software systems — from multimodal ML and LLM agents to full-stack products. Currently exploring deep learning, systems engineering, and the intersection of AI with the physical world.
+Building AI-powered applications and reliable software systems — from multimodal ML and LLM agents to full-stack products. Currently exploring deep learning, systems engineering, and the intersection of AI with the physical world.
 
 - 🧠 Building: AI/ML systems and agentic applications
 - ⚙️ Exploring: PyTorch, systems programming, and infrastructure
-- 🏎️ Interested in: Autonomous systems, motorsport, and space
+- 🏎️ Interested in: Autonomous systems, motorsport, and space (I write too !)
 - 🤝 Open to: Interesting engineering projects and collaborations
 
 ### Tech
